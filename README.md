@@ -1,4 +1,4 @@
-Auto Teft Analysis
+Auto Theft Analysis
 
 This README file provides an overview of the data analysis performed on the Auto Theft Open Data dataset and the Python code used to conduct the analysis.
 
